@@ -1,0 +1,8 @@
+{
+  "name": "vish-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mohammad <hi@morajabi.me> (http://morajabi.me/)",
+  "license": "MIT",
+  "repository": "git@github.com:morajabi/vish-app.git"
+}
