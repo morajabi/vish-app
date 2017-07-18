@@ -4,5 +4,20 @@
   "main": "index.js",
   "author": "Mohammad <hi@morajabi.me> (http://morajabi.me/)",
   "license": "MIT",
-  "repository": "git@github.com:morajabi/vish-app.git"
+  "repository": "git@github.com:morajabi/vish-app.git",
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack-dev-server"
+  },
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "webpack": "^3.3.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.1.1",
+    "babel-preset-react": "^6.24.1",
+    "webpack-dev-server": "^2.5.1"
+  }
 }

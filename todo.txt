@@ -1,5 +1,3 @@
-- webpack <--
-- webpack-dev-server
-- babel
-- eslint
-- react-router
+- webpack ✅
+- babel ✅
+- webpack-dev-server ✅
